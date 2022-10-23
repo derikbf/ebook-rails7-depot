@@ -3,12 +3,12 @@
 one:
   product: two
   cart: one
-  price: 1
+  # price: 1
 
 two:
   product: ruby
   order: one
-  price: 1
+  # price: 1
 
 # one:
 #   product: two
